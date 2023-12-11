@@ -2,7 +2,6 @@
 
 This repository explores sentiment and social network analysis in the context of social media platforms. Leveraging NLP techniques, including traditional ML and BERT models, it conducts sentiment analysis on a dataset of 1.6 million Twitter tweets.
 
-Certainly! Below is a comprehensive GitHub README template for your project. Please note that you should replace the placeholders with your actual project details.
 
 # Analysis of Some Aspects of Social Networking
 
